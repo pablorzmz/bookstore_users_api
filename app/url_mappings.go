@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/pablorzmz/bookstore_users_api/controllers/ping"
-	"github.com/pablorzmz/bookstore_users_api/controllers/user"
+	ping "github.com/pablorzmz/bookstore_users_api/controllers/ping"
+	user "github.com/pablorzmz/bookstore_users_api/controllers/users"
 )
 
 func mapUrls() {
